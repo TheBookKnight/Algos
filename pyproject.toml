@@ -1,0 +1,6 @@
+[project]
+name = "algos"
+version = "0.1.0"
+description = "Practice Site for Algorithms and Cryptography"
+requires-python = ">=3.12"
+dependencies = []
